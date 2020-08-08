@@ -97,7 +97,7 @@ def parse_product(self, response):
 ```
 
 # Kết quả thu được  
-Do crawler này được em viết lúc đầu, nhưng chạy thử thấy chậm quá nên chuyển sang tiki nên code chưa hoàn thành và chạy vẫn còn khá chậm. Em cũng đã thử một số cách để tăng tốc độ crawl nhưng kết quả không khả quan lắm. 
+Crawler này được em viết lúc đầu nhưng chạy thử thấy chậm quá nên chuyển sang tiki làm, vì vậy code vẫn chưa hoàn chỉnh và chạy vẫn còn khá chậm. Em cũng đã thử một số cách để tăng tốc độ crawl nhưng kết quả không khả quan lắm. Dưới đây là kết quả em thu được
   - Số lượng sản phẩm crawl được: 923 sản phẩm
   - Thông tin lấy được: Tên sản phẩm, giá tiền, danh mục  
   - Tốc độ crawl: ~ 20 sản phẩm/phút
