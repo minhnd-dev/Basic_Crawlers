@@ -22,7 +22,7 @@ options.headless = True
 options.add_argument("window-size=1920,1080")
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
-PATH = "C:\\Users\\Admin\\Documents\\Học tập\\6.Lab\\ShopeeCrawler\\ShopeeCrawler\\chromedriver.exe"
+PATH = "..\\chromedriver.exe"
 class ShopeecrawlerSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the

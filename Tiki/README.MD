@@ -7,7 +7,7 @@ Trang web tiki cấm bot crawl dữ liệu từ trang này nên việc đầu ti
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT =  "Mozilla/5.0" 
 ```
-Sau khi đổi user agent thì việc crawl dữ liệu từ trang này không quá khó khăn.
+Sau khi đổi user agent thì việc crawl dữ liệu từ trang này không quá khó khăn.  
 Đầu tiên, em lấy link danh mục các sản phẩm
 ```
 def parse(self, response):

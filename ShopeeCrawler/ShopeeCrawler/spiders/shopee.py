@@ -10,10 +10,9 @@ class ShopeeSpider(scrapy.Spider):
         for i in range(1,110):
             yield scrapy.Request(url = base_url+str(i), callback=self.parse_link)
     def parse_link(self, response):
-        with open("test.txt", "a", encoding='utf8') as f:
-            for product in response.css("div.col-xs-2-4.shopee-search-item-result__item"):
-                link = "https://shopee.vn/" + product.css("div a::attr(href)").get()
-                yield scrapy.Request(url = link, callback=self.parse_product)
+        for product in response.css("div.col-xs-2-4.shopee-search-item-result__item"):
+            link = "https://shopee.vn/" + product.css("div a::attr(href)").get()
+            yield scrapy.Request(url = link, callback=self.parse_product)
     def parse_product(self, response):
         product = {
             "STT": self.order_number,
