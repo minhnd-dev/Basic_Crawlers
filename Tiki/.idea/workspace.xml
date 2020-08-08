@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="003c126a-a1c0-460d-afb5-0d25b0175298" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1flYCIfet1gDWwMLTZy7eA14rdc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TGDD" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.runner">
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tiki" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tiki/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tiki/spiders/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tiki" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tiki" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tiki/spiders/tiki.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="websosanh" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tiki" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tiki/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tiki/spiders/websosanh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tiki" />
+      <item itemvalue="Python.runner" />
+      <item itemvalue="Python.websosanh" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python.websosanh" />
+        <item itemvalue="Python.tiki" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="003c126a-a1c0-460d-afb5-0d25b0175298" name="Default Changelist" comment="" />
+      <created>1596794016624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596794016624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596799470043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596799470043" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596813118000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596813118000" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596863824808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596863824808" />
+    <state width="1515" height="306" key="GridCell.Tab.0.bottom" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="306" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state width="1515" height="306" key="GridCell.Tab.0.center" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="306" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state width="1515" height="306" key="GridCell.Tab.0.left" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="306" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state width="1515" height="306" key="GridCell.Tab.0.right" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="306" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state width="1515" height="276" key="GridCell.Tab.1.bottom" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="276" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state width="1515" height="276" key="GridCell.Tab.1.center" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="276" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state width="1515" height="276" key="GridCell.Tab.1.left" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="276" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state width="1515" height="276" key="GridCell.Tab.1.right" timestamp="1596866997070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="276" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596866997070" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1596796012012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596796012012" />
+    <state x="479" y="0" width="578" height="824" key="find.popup" timestamp="1596804001592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="0" width="578" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1596804001592" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tiki/spiders/runner.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tiki/spiders/tiki.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tiki/spiders/tiki.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tiki/spiders/websosanh.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tiki/spiders/websosanh.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
