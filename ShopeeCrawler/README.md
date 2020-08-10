@@ -52,7 +52,7 @@ def process_request(self, request, spider):
             return HtmlResponse(abc,body = body, encoding = 'utf8', request = request) 
 ```
 ### Lấy link sản phẩm
-Em nhận thấy ở mục thời trang nam, các trang sản phẩm đều có dạng "https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.78?page=", em chỉ cần thay số đằng sau chữ "page" là sẽ tự động tải được sang trang mới nên em tạo ra vòng lặp lấy dữ liệu từ 119 trang:
+Em nhận thấy ở mục thời trang nam, các trang sản phẩm đều có dạng "https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.78?page=", em chỉ cần thay số đằng sau chữ "page" là sẽ tự động tải được sang trang mới nên em tạo ra vòng lặp lấy dữ liệu từ 109 trang:
 ```
 def start_requests(self):
         base_url = "https://shopee.vn/Th%E1%BB%9Di-Trang-Nam-cat.78?page="
