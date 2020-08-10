@@ -12,7 +12,7 @@ options.add_argument("window-size=1920,1080")
 prefs = {"profile.managed_default_content_settings.images": 2}
 options.add_experimental_option("prefs", prefs)
 ```
-Ở bên dưới trong hàm ``process_request()``` em đã viết một số dòng lệnh để điều khiển chrome tự động load trang web, kéo chuột xuống dưới để có thể load thêm dữ liệu.
+Ở bên dưới trong hàm ```process_request()``` em đã viết một số dòng lệnh để điều khiển chrome tự động load trang web, kéo chuột xuống dưới để có thể load thêm dữ liệu.
 ```
 def process_request(self, request, spider):
         driver = webdriver.Chrome(PATH, chrome_options= options)
@@ -67,7 +67,7 @@ def parse_link(self, response):
             yield scrapy.Request(url = link, callback=self.parse_product)
 ```
 ### Lấy dữ liệu sản phẩm
-Dữ liệu thu được từ mỗi sản phẩm sẽ được lưu trong một dictionary và ghi vào file 'OUTPUT/shopee_content.json'
+Dữ liệu thu được từ mỗi sản phẩm sẽ được lưu trong một dictionary và ghi vào file ```OUTPUT/shopee_content.json```
 ```
 def parse_product(self, response):
         product = {
